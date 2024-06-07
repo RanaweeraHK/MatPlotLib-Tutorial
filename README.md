@@ -1,5 +1,5 @@
 # MatPlotlib Tutorial
-![matplotlib](https://github.com/RanaweeraHK/MatPlotLib-Tutorial/assets/129282753/2043a815-4626-4932-8688-4d0f1af0bbf3)
+![1_EsqDYFK-IzGEAm4FyZP0wQ](https://github.com/RanaweeraHK/MatPlotLib-Tutorial/assets/129282753/eb53102c-a2f6-4adb-ba84-aa8820d2b356)
 
 Matplotlib is a plotting library for Python that produces publication-quality figures in various formats. It can be used to create plots, histograms, power spectra, bar charts, error charts, scatterplots, etc., with just a few lines of code.
 
